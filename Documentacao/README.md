@@ -1,0 +1,1 @@
+Essa pasta será utilizada para guardar os documentos de desenho do projeto de aplicação e banco de dados.
